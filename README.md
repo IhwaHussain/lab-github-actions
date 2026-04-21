@@ -3,7 +3,8 @@
 ![CI Build](https://github.com/IhwaHussain/lab-github-actions/actions/workflows/workflow.yml/badge.svg)
 [![codecov](https://codecov.io/gh/IhwaHussain/lab-github-actions/branch/master/graph/badge.svg)
 
-**Live Demo:** An interactive demo of the MLOps pipeline is available here: 👉 [portfolio-builder-ihwaashahussain.replit.app/mlops-demo](https://portfolio-builder-ihwaashahussain.replit.app/mlops-demo/)
+## 🔴 Live Demo
+ An interactive demo of the MLOps pipeline is available here: 👉 [portfolio-builder-ihwaashahussain.replit.app/mlops-demo](https://portfolio-builder-ihwaashahussain.replit.app/mlops-demo/)
 
 ---
 
