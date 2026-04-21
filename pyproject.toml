@@ -1,4 +1,6 @@
 [tool.poetry]
+package-mode = false
+
 name = "lab-github-actions"
 version = "0.1.0"
 description = "NYU DevOps Lab for learning GitHub Actions"
