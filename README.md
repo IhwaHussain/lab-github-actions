@@ -1,7 +1,7 @@
 # MLOps Pipeline with GitHub Actions & Redis
 
 ![CI Build](https://github.com/IhwaHussain/lab-github-actions/actions/workflows/workflow.yml/badge.svg)
-[![codecov](https://codecov.io/gh/IhwaHussain/lab-github-actions/branch/main/graph/badge.svg)](https://codecov.io/gh/IhwaHussain/lab-github-actions)
+[![codecov](https://codecov.io/gh/IhwaHussain/lab-github-actions/branch/master/graph/badge.svg)
 
 **Live Demo:** [portfolio-builder-ihwaashahussain.replit.app/mlops-demo](https://portfolio-builder-ihwaashahussain.replit.app/mlops-demo/)
 
